@@ -1,0 +1,6 @@
+D:\Gogo\Visual Studio\Projects\AlgorithmGCD\AlgorithmGCD\bin\Debug\AlgorithmGCD.exe.config
+D:\Gogo\Visual Studio\Projects\AlgorithmGCD\AlgorithmGCD\bin\Debug\AlgorithmGCD.exe
+D:\Gogo\Visual Studio\Projects\AlgorithmGCD\AlgorithmGCD\bin\Debug\AlgorithmGCD.pdb
+D:\Gogo\Visual Studio\Projects\AlgorithmGCD\AlgorithmGCD\obj\Debug\AlgorithmGCD.csprojResolveAssemblyReference.cache
+D:\Gogo\Visual Studio\Projects\AlgorithmGCD\AlgorithmGCD\obj\Debug\AlgorithmGCD.exe
+D:\Gogo\Visual Studio\Projects\AlgorithmGCD\AlgorithmGCD\obj\Debug\AlgorithmGCD.pdb
